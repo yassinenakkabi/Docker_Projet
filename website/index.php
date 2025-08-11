@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title>STUDENTS</title>
+        <title>Application Python</title>
     </head>
 
     <body>
